@@ -31,6 +31,27 @@ A Python desktop GUI application that automatically organizes files into categor
 - Datetime module
 
 
+## ▶ How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/HarshitaLokhande/File-Organizer.git
+
+2. Move into the project directory:
+
+cd Smart-File-Organizer
+
+3. Run the application:
+
+python gui.py
+
+
+## 📸 Screenshot
+
+<img width="1000" height="515" alt="image" src="https://github.com/user-attachments/assets/b0b64a8e-5221-473e-9bfa-8496c6009596" />
+
+
+
 ## ⚙ How It Works
 
 - User selects a folder through GUI
